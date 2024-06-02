@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "shooting-game.sln"
+    "dotnet.defaultSolution": "Bee Buster (2D-shooting game).sln"
 }
